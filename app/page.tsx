@@ -9,7 +9,7 @@ export default function Home() {
         style={{ backgroundImage: "url(/main-bg.webp" }}
       >
         <div className="pl-20 md:pl-40 pb-56 md:pb-20 flex-col gap-10 z-[10] max-w-[750px] leading-7	">
-          <h1 className=" text-white font-extralight text-2xl md:text-4xl mb-5">
+          <h1 className=" text-white font-extralight text-xl md:text-3xl mb-5">
             Make anything possible with
           </h1>
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 font-black text-[40px] md:text-[50px]">
