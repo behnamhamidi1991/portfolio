@@ -28,7 +28,7 @@ const Navigation = () => {
 
   return (
     <div
-      className="absolute z-[50] -bottom-20 w-[50%] md:w-[20%] max-h-[150px] rounded-full flex justify-between items-center border border-white py-7"
+      className="absolute z-[50] -bottom-20 w-[50%] md:w-[20%] max-h-[150px] rounded-[5px] flex justify-between items-center border border-purple-500 py-7"
       style={{ left: "20%" }}
     >
       {NavLinks.map((nav) => (
